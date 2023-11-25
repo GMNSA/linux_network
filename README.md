@@ -96,7 +96,7 @@ The possible gateway IP addresses for the 10.10.0.0/18 network are:
 Therefore, the possible gateway IP addresses from the given list are:
 - 10.10.0.2     - YES
 - 10.10.10.10   - YES
-- 10.10.100.1   - YES
+- 10.10.100.1   - NO
 
 - 10.0.0.1      - NO
 - 10.10.1.255   - NO
